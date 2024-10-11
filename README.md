@@ -32,7 +32,7 @@
 
 ### Programming languages:
 &emsp;
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) </a>
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)]([https://developer.mozilla.org/es/docs/Web/JavaScript](https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort=))
 ![Node js](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Sql](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
