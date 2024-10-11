@@ -34,8 +34,7 @@
 &emsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://github.com/suprarbarber)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://github.com/AprendoPython11)
-[![Java](https://decimodan.com/skills/java.png)](https://github.com/natalynohava/Java)
-[![Node js]([https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007AC](https://www.muylinux.com/wp-content/uploads/2022/04/nodejs.png)C)]()
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java)](https://github.com/natalynohava/Java)
 [![Sql](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)]()
 [![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)]()
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/natalynohava/PhP)
