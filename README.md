@@ -32,8 +32,8 @@
 
 ### Programming languages:
 &emsp;
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://github.com/suprarbarber)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://github.com/AprendoPython11)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://github.com/suprarbarber/repositories)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://github.com/AprendoPython11/repositories)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java)](https://github.com/natalynohava/Java)
 [![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)]()
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/natalynohava/PhP)
@@ -66,7 +66,7 @@
 <br>
   <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+<h2> Angie's GitHub Activity Graph </h2>
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
