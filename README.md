@@ -35,7 +35,6 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://github.com/suprarbarber)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://github.com/AprendoPython11)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java)](https://github.com/natalynohava/Java)
-[![Sql](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)]()
 [![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)]()
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/natalynohava/PhP)
 
@@ -61,9 +60,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://github.com/natalynohava'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 <br>
 <br>
