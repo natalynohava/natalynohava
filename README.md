@@ -29,8 +29,8 @@
 
 ### Programming languages:
 &emsp;
-[![JavaScript](https://github.com/suprarbarber/repositories)]
-[![Python]([https://img.shields.io/badge/-Python-000?&logo=Python](https://github.com/AprendoPython11/repositories))]
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/suprarbarber)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://github.com/AprendoPython)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java)](https://github.com/natalynohava/Java)
 [![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)]()
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/natalynohava/PhP)
