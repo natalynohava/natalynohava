@@ -14,15 +14,15 @@
 
  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 I’m studying software development
   
-- 🌱 I’m currently learning Git, Python y React
+- 🌱 I’m currently learning Java, Cibersecurity and AI
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 I’m looking to collaborate on new Projects
   
-- 💬 Ask me about Sql, css, html y JavaScript
+- 💬 Ask me about Sql, CSS, HTML, JavaScript and Python
   
-- ⚡ Fun fact: I like the dessert.
+- ⚡ Fun fact: I love the cute desserts.
 
 <br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
