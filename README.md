@@ -33,14 +33,15 @@
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://github.com/AprendoPython)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java)](https://github.com/natalynohava/Java)
 [![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)]()
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/natalynohava/PhP)
+[![PHP](https://img.shields.io/badge/-MySQL-000?&logo=mysql)]
 
 ### Frontend development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Figma](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)](https://github.com/Vistas-con-Bootstrap/Botstrap)
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)](https://github.com/Vistas-con-Bootstrap/Botstrap)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 ### Misc tools:
 &emsp;
@@ -56,7 +57,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/angie-nohava/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
+<a href = 'https://www.instagram.com/angie_03040/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://github.com/natalynohava'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = "mailto: nohavavargasangie@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
   
